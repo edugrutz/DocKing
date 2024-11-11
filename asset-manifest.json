@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/DocKing/static/css/main.edfeb282.css",
-    "main.js": "/DocKing/static/js/main.3b796c32.js",
+    "main.css": "/DocKing/static/css/main.be0c89fd.css",
+    "main.js": "/DocKing/static/js/main.ee0d90d4.js",
     "static/js/453.f2d237cd.chunk.js": "/DocKing/static/js/453.f2d237cd.chunk.js",
     "static/media/Linux.png": "/DocKing/static/media/Linux.a4628033e13619be2847.png",
     "static/media/Print.png": "/DocKing/static/media/Print.3dcdb5522cd1334be0df.png",
     "static/media/Sansation_Bold.ttf": "/DocKing/static/media/Sansation_Bold.01acb21b3a650eee9aa6.ttf",
     "static/media/Logo.png": "/DocKing/static/media/Logo.49e47b3ef67f77212463.png",
     "index.html": "/DocKing/index.html",
-    "main.edfeb282.css.map": "/DocKing/static/css/main.edfeb282.css.map",
-    "main.3b796c32.js.map": "/DocKing/static/js/main.3b796c32.js.map",
+    "main.be0c89fd.css.map": "/DocKing/static/css/main.be0c89fd.css.map",
+    "main.ee0d90d4.js.map": "/DocKing/static/js/main.ee0d90d4.js.map",
     "453.f2d237cd.chunk.js.map": "/DocKing/static/js/453.f2d237cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edfeb282.css",
-    "static/js/main.3b796c32.js"
+    "static/css/main.be0c89fd.css",
+    "static/js/main.ee0d90d4.js"
   ]
 }
