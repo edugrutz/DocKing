@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/docking/static/css/main.5ae5454f.css",
-    "main.js": "/docking/static/js/main.fcd60395.js",
-    "static/js/453.f2d237cd.chunk.js": "/docking/static/js/453.f2d237cd.chunk.js",
-    "static/media/Linux.png": "/docking/static/media/Linux.a4628033e13619be2847.png",
-    "static/media/Print.png": "/docking/static/media/Print.3dcdb5522cd1334be0df.png",
-    "static/media/Sansation_Bold.ttf": "/docking/static/media/Sansation_Bold.01acb21b3a650eee9aa6.ttf",
-    "static/media/Logo.png": "/docking/static/media/Logo.49e47b3ef67f77212463.png",
-    "index.html": "/docking/index.html",
-    "main.5ae5454f.css.map": "/docking/static/css/main.5ae5454f.css.map",
-    "main.fcd60395.js.map": "/docking/static/js/main.fcd60395.js.map",
-    "453.f2d237cd.chunk.js.map": "/docking/static/js/453.f2d237cd.chunk.js.map"
+    "main.css": "/DocKing/static/css/main.edfeb282.css",
+    "main.js": "/DocKing/static/js/main.4b7c2b3b.js",
+    "static/js/453.f2d237cd.chunk.js": "/DocKing/static/js/453.f2d237cd.chunk.js",
+    "static/media/Linux.png": "/DocKing/static/media/Linux.a4628033e13619be2847.png",
+    "static/media/Print.png": "/DocKing/static/media/Print.3dcdb5522cd1334be0df.png",
+    "static/media/Sansation_Bold.ttf": "/DocKing/static/media/Sansation_Bold.01acb21b3a650eee9aa6.ttf",
+    "static/media/Logo.png": "/DocKing/static/media/Logo.49e47b3ef67f77212463.png",
+    "index.html": "/DocKing/index.html",
+    "main.edfeb282.css.map": "/DocKing/static/css/main.edfeb282.css.map",
+    "main.4b7c2b3b.js.map": "/DocKing/static/js/main.4b7c2b3b.js.map",
+    "453.f2d237cd.chunk.js.map": "/DocKing/static/js/453.f2d237cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ae5454f.css",
-    "static/js/main.fcd60395.js"
+    "static/css/main.edfeb282.css",
+    "static/js/main.4b7c2b3b.js"
   ]
 }
