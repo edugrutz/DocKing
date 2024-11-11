@@ -5,29 +5,38 @@
   font-style: normal;
 }
 
+/* Para o logo e o título manterem o tamanho normal */
 .logo {
-  width: 100%;
+  max-width: 100%;
+  height: auto; 
   max-height: 80px;
-}
-
-#Logo {
-  margin-left: 3%;
-  margin-top: 1%;
+  margin-left: 15%;
 }
 
 .title {
   font-family: 'Sansation';
-  font-size: 3.5em;
-  margin-left: 2%;
+  font-size: 3.5em;  
   color: white;
 }
 
-.nav-link {
-  color: white !important;
-  margin-left: 50px;
-  margin-top: 20px;
+/* Ajuste para quando a tela for pequena (quando o botão toggle aparecer) */
+@media (max-width: 991px) {  /* Quando a tela for menor que 992px (tamanho de tablet ou celular) */
+  .logo {
+    max-height: 80px; 
+  }
+  .title {
+    font-size: 3.5em;  
+  }
 }
 
-.nav-link:hover {
-  color: #f8f9fa !important; /* Cor branca ao passar o mouse, pode ajustar o tom */
+/* Ajuste do navbar no mobile */
+@media (max-width: 767px) {
+  /* Nesse ponto, o logo e título ficam ainda menores para caber com o toggle */
+  .logo {
+    max-height: 40px; 
+    margin-left: 1%;
+  }
+  .title {
+    font-size: 2em;  
+  }
 }

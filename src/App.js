@@ -5,6 +5,7 @@ import Downloads from './components/Downloads';
 import './App.css';
 import FAQ from './components/FAQ';
 import Contact from './components/Contact';
+import About from './components/About';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path="/downloads" element={<Downloads />} />
           <Route path="/faq" element={<FAQ />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/aboutme" element={<About />} />
         </Routes>
       </Router>
     </div>

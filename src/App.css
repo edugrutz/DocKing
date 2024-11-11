@@ -3,3 +3,8 @@
     min-height: 100vh;
   }  
   
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%; /* Garante que o body ocupe toda a altura da tela */
+  }
