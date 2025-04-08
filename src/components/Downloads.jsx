@@ -15,7 +15,7 @@ const Downloads = () => {
               <div className="card-body">
                 <h5 className="card-title">Free</h5>
                 <p className="card-text">Demo trial</p>
-                <a href="#" className="btn btn-warning">Download</a>
+                <a href="https://github.com/edugrutz/DocKing/releases/download/test/dist.zip" className="btn btn-warning">Download</a>
               </div>
             </div>
           </div>
