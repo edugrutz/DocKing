@@ -20,6 +20,7 @@ const Navbar = () => {
               <ul className='navbar-nav ms-auto fs-4' style={{marginRight:'10%'}}>
                 <li className='nav-item'><Link className="nav-link" to="/">Home</Link></li>
                 <li className='nav-item'><Link className="nav-link" to="/downloads">Downloads</Link></li>
+                <li className='nav-item'><Link className="nav-link" to="/usermanual">User Manual</Link></li>
                 <li className='nav-item'><Link className="nav-link" to="/faq">FAQ</Link></li>
                 <li className='nav-item'><Link className="nav-link" to="/contact">Contact Us</Link></li>
                 <li className='nav-item'><Link className="nav-link" to="/aboutme">Developer's Corner</Link></li>     
